@@ -24,7 +24,7 @@ The goal is to analyze customer behavior, sales performance, and product trends 
 The database includes:
 - Customer Table
 - Product Table
-- Deal/Sales Table
+- Deal Table
 - Interaction Data
 
 Relationships were designed to support analytical reporting and business insights.
